@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1, ?CANAL=TV PERU
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+#EXTINF:-1, ?CANAL=ESPN MX 4
+https://khala.skylivehd.com/global/espn4mx/index.m3u8?ip=52.162.137.96&token=b4edfc380334e59f5e50b5106fbffe467210c11c-ae-1786549298-1786495298
+#EXTINF:-1, ?CANAL=TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1, ?CANAL=RPP
+https://cdn-ssai.smartbit.co/rpp/index.m3u8
+#EXTINF:-1, ?CANAL=GRAN HERMANO
+https://khala.skylivehd.com/global/gh2/index.m3u8?ip=52.162.137.96&token=ed25d86915ab16e6f913cb5f7e6258f49cbccbe5-28-1786549397-1786495397
+#EXTINF:-1, ?CANAL=AXN
+https://khala.skylivehd.com/global/axn/index.m3u8?ip=52.162.137.96&token=a55daf6f0177528369e7b1ced2233a9eec7c6fee-ad-1786549431-1786495431
+#EXTINF:-1, ?CANAL=AMERICA TV PE
+https://khala.skylivehd.com/global/americatv/index.m3u8?ip=52.162.137.96&token=fc2ce43196917b318f9db6f9191959f88f41a88f-79-1786549455-1786495455
+#EXTINF:-1, ?CANAL=GOLDEN PLUS
+https://khala.skylivehd.com/global/goldenplus/index.m3u8?ip=52.162.137.96&token=55291f33ca9c7555b1f727adfb1241db5da66f65-30-1786549505-1786495505
+#EXTINF:-1, ?CANAL=UNIVERSAL TV
+https://khala.skylivehd.com/global/universaltv/index.m3u8?ip=52.162.137.96&token=18f1267b6b508ac03ae34f09cb63f6a69d14fe53-ae-1786549613-1786495613
+#EXTINF:-1, ?CANAL=GOLDEN
+https://khala.skylivehd.com/global/golden/index.m3u8?ip=52.162.137.96&token=d293d1f1b685c1952f1ceb0b6687fce00c01d444-39-1786549638-1786495638
