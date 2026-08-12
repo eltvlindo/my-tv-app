@@ -1,7 +1,7 @@
 from playwright.sync_api import sync_playwright
 
 def cazar_todos(url_principal):
-    print("🕷️ Iniciando la araña en la nube...")
+    print("🕷️ Iniciando la araña en la nube con clic fantasma...")
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context()
@@ -16,18 +16,27 @@ def cazar_todos(url_principal):
         canales_capturados = {}
 
         for enlace in list(enlaces_canales):
+            print(f"📺 Analizando: {enlace}")
             pestaña_canal = context.new_page()
             m3u8_encontrados = []
+            
             pestaña_canal.on("request", lambda request: m3u8_encontrados.append(request.url) if ".m3u8" in request.url else None)
 
             try:
                 pestaña_canal.goto(enlace)
-                pestaña_canal.wait_for_timeout(8000) 
+                pestaña_canal.wait_for_timeout(5000) # Espera a que cargue la página
+                
+                # 💥 MAGIA: Hacemos un clic en el centro de la pantalla para darle "Play" al video
+                pestaña_canal.mouse.click(500, 300) 
+                
+                # Esperamos 10 segundos para que el video arranque bien después del clic
+                pestaña_canal.wait_for_timeout(10000) 
             except:
                 pass
 
             if m3u8_encontrados:
-                canales_capturados[enlace] = m3u8_encontrados[0]
+                # Evitamos guardar enlaces de publicidad, nos quedamos con el real
+                canales_capturados[enlace] = m3u8_encontrados[-1] 
             
             pestaña_canal.close() 
         browser.close()
