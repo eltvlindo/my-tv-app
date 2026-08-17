@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1, ?CANAL=GOLDEN
-https://khala.skylivehd.com/global/golden/index.m3u8?ip=4.155.149.100&token=21ea43a97dc63e0ef8a64525948dd11d8c674741-b5-1786932791-1786878791
-#EXTINF:-1, ?CANAL=GRAN HERMANO
-https://khala.skylivehd.com/gh2/tracks-v1a1/mono.m3u8?ip=4.155.149.100&token=afc1624db1436350bb10a4004f5348a9f17d4ae6-8a-1786932825-1786878825
-#EXTINF:-1, ?CANAL=GOLDEN PLUS
-https://khala.skylivehd.com/global/goldenplus/index.m3u8?ip=4.155.149.100&token=695c79c2fffef4925549717bcdaa782da9db474d-3f-1786933189-1786879189
-#EXTINF:-1, ?CANAL=UNIVERSAL TV
-https://khala.skylivehd.com/global/universaltv/index.m3u8?ip=4.155.149.100&token=33a75e741b076691ef6056ae4712fe17e67fbbcc-9f-1786933222-1786879222
-#EXTINF:-1, ?CANAL=RPP
-https://prd.jwpltx.com/v1/error/ping.gif?h=936022192&e=err&n=4566532079712822&aid=eGDB2EujEeKZwiIACp8kUw&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=9umquqi2tp5y&i=1&lid=1nqmp2w1kzc7&lsa=set&mt=1&pbd=1&pbr=1&pgi=137kvjq1oqmi&ph=0&pii=0&pl=459&plc=1&pli=yi3rm61l9p97&pp=hlsjs&prc=1&ps=4&pss=1&pt=Rpp%20en%20vivo%20por%20internet%20%7C%20Tele%20Libre%20TV&pu=https%3A%2F%2Ftelelibretv.org%2Fcanales%2F%3Fcanal%3DRPP&pv=8.26.0&pyc=0&s=1&sdk=0&stc=1&stpe=0&t=&tv=3.41.0&vb=1&vi=0.7&vl=90&wd=816&cme=0&erc=232011&mu=https%3A%2F%2Fcdn-ssai.smartbit.co%2Frpp%2Findex.m3u8&sa=1786888302282
-#EXTINF:-1, ?CANAL=AXN
-https://khala.skylivehd.com/global/axn/index.m3u8?ip=4.155.149.100&token=c97baa19e8732124c7939afe5794c6183c991bfa-d7-1786933422-1786879422
-#EXTINF:-1, ?CANAL=AMERICA TV PE
-https://khala.skylivehd.com/americatv/tracks-v1a1/mono.m3u8?ip=4.155.149.100&token=423cb3d98cee9e30c75a8f6fe4d7d9058df3c0bf-ea-1786933454-1786879454
-#EXTINF:-1, ?CANAL=TV PERU
-https://prd.jwpltx.com/v1/error/ping.gif?h=-886786809&e=err&n=1974002898689684&aid=eGDB2EujEeKZwiIACp8kUw&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=8sjhlo12mpis&i=1&lid=1nqmp2w1kzc7&lsa=read&mt=1&pbd=1&pbr=1&pgi=10mindtf4w99&ph=0&pii=0&pl=459&plc=1&pli=4r4l591d7vrt&pp=hlsjs&prc=1&ps=4&pss=1&pt=Tvperu%20en%20vivo%20por%20internet%20%7C%20Tele%20Libre%20TV&pu=https%3A%2F%2Ftelelibretv.org%2Fcanales%2F%3Fcanal%3Dtv-peru&pv=8.26.0&pyc=0&s=1&sdk=0&stc=1&stpe=0&t=&tv=3.41.0&vb=1&vi=0.7&vl=90&wd=816&cme=0&erc=232011&mu=https%3A%2F%2Fcdnhd.iblups.com%2Fhls%2F777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8&sa=1786888501554
 #EXTINF:-1, ?CANAL=ESPN MX 4
-https://khala.skylivehd.com/espn4mx/tracks-v1a1/mono.m3u8?ip=4.155.149.100&token=b09bb8568c2d9f592c9499c8b62ccb45b116fdf1-97-1786933516-1786879516
+https://khala.skylivehd.com/espn4mx/tracks-v1a1/mono.m3u8?ip=172.182.225.161&token=0ff44690373cc4dd994b1f3ef283ea230959145e-f1-1786981666-1786927666
+#EXTINF:-1, ?CANAL=TV PERU
+https://prd.jwpltx.com/v1/error/ping.gif?h=431804755&e=err&n=7966542409001747&aid=eGDB2EujEeKZwiIACp8kUw&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=12suoqs87bh4&i=1&lid=1icar6kslg88&lsa=set&mt=1&pbd=1&pbr=1&pgi=8eghsr1ev1ad&ph=0&pii=0&pl=459&plc=1&pli=1oe7enkcq44i&pp=hlsjs&prc=1&ps=4&pss=1&pt=Tvperu%20en%20vivo%20por%20internet%20%7C%20Tele%20Libre%20TV&pu=https%3A%2F%2Ftelelibretv.org%2Fcanales%2F%3Fcanal%3Dtv-peru&pv=8.26.0&pyc=0&s=1&sdk=0&stc=1&stpe=0&t=&tv=3.41.0&vb=1&vi=0.7&vl=90&wd=816&cme=0&erc=232011&mu=https%3A%2F%2Fcdnhd.iblups.com%2Fhls%2F777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8&sa=1786936820848
+#EXTINF:-1, ?CANAL=AMERICA TV PE
+https://khala.skylivehd.com/americatv/tracks-v1a1/mono.m3u8?ip=172.182.225.161&token=d60abc3201fc3b2f14be6923110befcc6fa308f8-ca-1786981896-1786927896
 #EXTINF:-1, ?CANAL=TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8
+#EXTINF:-1, ?CANAL=GOLDEN PLUS
+https://khala.skylivehd.com/global/goldenplus/index.m3u8?ip=172.182.225.161&token=14068f50101d5f13bbd325b3175d091a09fffdb3-61-1786982017-1786928017
+#EXTINF:-1, ?CANAL=AXN
+https://khala.skylivehd.com/global/axn/index.m3u8?ip=172.182.225.161&token=bfe69222cbf55848f605548ef31cbc42d98dc47b-46-1786982247-1786928247
+#EXTINF:-1, ?CANAL=RPP
+https://prd.jwpltx.com/v1/error/ping.gif?h=796018985&e=err&n=3911522270465861&aid=eGDB2EujEeKZwiIACp8kUw&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=1poi0qz1tixe&i=1&lid=1icar6kslg88&lsa=read&mt=1&pbd=1&pbr=1&pgi=1p7h8gz16hgc&ph=0&pii=0&pl=459&plc=1&pli=s8ynjy1km8gz&pp=hlsjs&prc=1&ps=4&pss=1&pt=Rpp%20en%20vivo%20por%20internet%20%7C%20Tele%20Libre%20TV&pu=https%3A%2F%2Ftelelibretv.org%2Fcanales%2F%3Fcanal%3DRPP&pv=8.26.0&pyc=0&s=1&sdk=0&stc=1&stpe=0&t=&tv=3.41.0&vb=1&vi=0.7&vl=90&wd=816&cme=0&erc=232011&mu=https%3A%2F%2Fcdn-ssai.smartbit.co%2Frpp%2Findex.m3u8&sa=1786937526310
+#EXTINF:-1, ?CANAL=UNIVERSAL TV
+https://khala.skylivehd.com/global/universaltv/index.m3u8?ip=172.182.225.161&token=ba6cb8fa97ba20a103d33115c6522de577449212-f7-1786982554-1786928554
+#EXTINF:-1, ?CANAL=GRAN HERMANO
+https://mileixd.skylivehd.com/gh2/tracks-v1a1/mono.m3u8?ip=172.182.225.161&token=7275bc723d89902670d244cb6fe0e575936f18ff-66-1786982617-1786928617
+#EXTINF:-1, ?CANAL=GOLDEN
+https://khala.skylivehd.com/global/golden/index.m3u8?ip=172.182.225.161&token=bc92925087bb365dd1bb87c9a68b30aaa396b6cf-27-1786982646-1786928646
